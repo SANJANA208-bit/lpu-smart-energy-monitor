@@ -1,0 +1,1010 @@
+[
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 0,
+        "energy_kwh": 12
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 1,
+        "energy_kwh": 10
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 2,
+        "energy_kwh": 8
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 3,
+        "energy_kwh": 7
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 4,
+        "energy_kwh": 8
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 5,
+        "energy_kwh": 10
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 6,
+        "energy_kwh": 15
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 7,
+        "energy_kwh": 22
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 8,
+        "energy_kwh": 35
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 9,
+        "energy_kwh": 85
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 10,
+        "energy_kwh": 95
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 11,
+        "energy_kwh": 92
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 12,
+        "energy_kwh": 88
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 13,
+        "energy_kwh": 90
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 14,
+        "energy_kwh": 93
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 15,
+        "energy_kwh": 87
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 16,
+        "energy_kwh": 80
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 17,
+        "energy_kwh": 40
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 18,
+        "energy_kwh": 25
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 19,
+        "energy_kwh": 18
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 20,
+        "energy_kwh": 42
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 21,
+        "energy_kwh": 35
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 22,
+        "energy_kwh": 28
+    },
+    {
+        "building_id": "AB_A",
+        "building_name": "Academic Block A",
+        "category": "Academic",
+        "hour": 23,
+        "energy_kwh": 15
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 0,
+        "energy_kwh": 14
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 1,
+        "energy_kwh": 11
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 2,
+        "energy_kwh": 9
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 3,
+        "energy_kwh": 8
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 4,
+        "energy_kwh": 9
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 5,
+        "energy_kwh": 12
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 6,
+        "energy_kwh": 18
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 7,
+        "energy_kwh": 25
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 8,
+        "energy_kwh": 40
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 9,
+        "energy_kwh": 78
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 10,
+        "energy_kwh": 88
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 11,
+        "energy_kwh": 85
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 12,
+        "energy_kwh": 82
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 13,
+        "energy_kwh": 84
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 14,
+        "energy_kwh": 87
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 15,
+        "energy_kwh": 81
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 16,
+        "energy_kwh": 75
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 17,
+        "energy_kwh": 35
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 18,
+        "energy_kwh": 22
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 19,
+        "energy_kwh": 45
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 20,
+        "energy_kwh": 52
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 21,
+        "energy_kwh": 48
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 22,
+        "energy_kwh": 32
+    },
+    {
+        "building_id": "AB_B",
+        "building_name": "Academic Block B",
+        "category": "Academic",
+        "hour": 23,
+        "energy_kwh": 18
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 0,
+        "energy_kwh": 45
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 1,
+        "energy_kwh": 38
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 2,
+        "energy_kwh": 32
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 3,
+        "energy_kwh": 28
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 4,
+        "energy_kwh": 25
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 5,
+        "energy_kwh": 30
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 6,
+        "energy_kwh": 65
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 7,
+        "energy_kwh": 72
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 8,
+        "energy_kwh": 68
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 9,
+        "energy_kwh": 48
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 10,
+        "energy_kwh": 40
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 11,
+        "energy_kwh": 38
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 12,
+        "energy_kwh": 42
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 13,
+        "energy_kwh": 40
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 14,
+        "energy_kwh": 38
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 15,
+        "energy_kwh": 40
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 16,
+        "energy_kwh": 45
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 17,
+        "energy_kwh": 52
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 18,
+        "energy_kwh": 75
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 19,
+        "energy_kwh": 82
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 20,
+        "energy_kwh": 85
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 21,
+        "energy_kwh": 78
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 22,
+        "energy_kwh": 68
+    },
+    {
+        "building_id": "HH1",
+        "building_name": "Hostel Block H1",
+        "category": "Hostel",
+        "hour": 23,
+        "energy_kwh": 55
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 0,
+        "energy_kwh": 42
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 1,
+        "energy_kwh": 35
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 2,
+        "energy_kwh": 30
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 3,
+        "energy_kwh": 26
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 4,
+        "energy_kwh": 23
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 5,
+        "energy_kwh": 28
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 6,
+        "energy_kwh": 62
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 7,
+        "energy_kwh": 70
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 8,
+        "energy_kwh": 65
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 9,
+        "energy_kwh": 45
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 10,
+        "energy_kwh": 38
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 11,
+        "energy_kwh": 36
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 12,
+        "energy_kwh": 40
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 13,
+        "energy_kwh": 38
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 14,
+        "energy_kwh": 36
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 15,
+        "energy_kwh": 38
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 16,
+        "energy_kwh": 43
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 17,
+        "energy_kwh": 50
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 18,
+        "energy_kwh": 72
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 19,
+        "energy_kwh": 80
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 20,
+        "energy_kwh": 83
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 21,
+        "energy_kwh": 75
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 22,
+        "energy_kwh": 65
+    },
+    {
+        "building_id": "HH2",
+        "building_name": "Hostel Block H2",
+        "category": "Hostel",
+        "hour": 23,
+        "energy_kwh": 52
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 0,
+        "energy_kwh": 8
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 1,
+        "energy_kwh": 42
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 2,
+        "energy_kwh": 45
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 3,
+        "energy_kwh": 38
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 4,
+        "energy_kwh": 8
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 5,
+        "energy_kwh": 12
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 6,
+        "energy_kwh": 28
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 7,
+        "energy_kwh": 65
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 8,
+        "energy_kwh": 72
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 9,
+        "energy_kwh": 35
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 10,
+        "energy_kwh": 15
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 11,
+        "energy_kwh": 18
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 12,
+        "energy_kwh": 58
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 13,
+        "energy_kwh": 68
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 14,
+        "energy_kwh": 25
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 15,
+        "energy_kwh": 12
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 16,
+        "energy_kwh": 15
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 17,
+        "energy_kwh": 22
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 18,
+        "energy_kwh": 48
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 19,
+        "energy_kwh": 75
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 20,
+        "energy_kwh": 62
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 21,
+        "energy_kwh": 22
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 22,
+        "energy_kwh": 12
+    },
+    {
+        "building_id": "MESS",
+        "building_name": "Mess Main",
+        "category": "Mess",
+        "hour": 23,
+        "energy_kwh": 10
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 0,
+        "energy_kwh": 22
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 1,
+        "energy_kwh": 18
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 2,
+        "energy_kwh": 15
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 3,
+        "energy_kwh": 12
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 4,
+        "energy_kwh": 10
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 5,
+        "energy_kwh": 12
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 6,
+        "energy_kwh": 18
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 7,
+        "energy_kwh": 25
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 8,
+        "energy_kwh": 45
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 9,
+        "energy_kwh": 55
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 10,
+        "energy_kwh": 58
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 11,
+        "energy_kwh": 60
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 12,
+        "energy_kwh": 58
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 13,
+        "energy_kwh": 60
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 14,
+        "energy_kwh": 62
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 15,
+        "energy_kwh": 60
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 16,
+        "energy_kwh": 58
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 17,
+        "energy_kwh": 55
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 18,
+        "energy_kwh": 52
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 19,
+        "energy_kwh": 50
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 20,
+        "energy_kwh": 48
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 21,
+        "energy_kwh": 45
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 22,
+        "energy_kwh": 40
+    },
+    {
+        "building_id": "LIB",
+        "building_name": "Central Library",
+        "category": "Library",
+        "hour": 23,
+        "energy_kwh": 32
+    }
+]
