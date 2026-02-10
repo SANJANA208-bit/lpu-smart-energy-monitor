@@ -1,0 +1,208 @@
+.waste-score-section {
+    padding: 2rem 0;
+}
+
+.waste-score-card {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.waste-score-display {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.waste-meter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    border-radius: var(--radius-lg);
+    background: linear-gradient(135deg, rgba(76, 175, 80, 0.1) 0%, rgba(76, 175, 80, 0.05) 100%);
+    border: 3px solid var(--color-success);
+    text-align: center;
+}
+
+.waste-meter.waste-medium {
+    background: linear-gradient(135deg, rgba(255, 152, 0, 0.1) 0%, rgba(255, 152, 0, 0.05) 100%);
+    border-color: var(--color-warning);
+}
+
+.waste-meter.waste-high {
+    background: linear-gradient(135deg, rgba(244, 67, 54, 0.1) 0%, rgba(244, 67, 54, 0.05) 100%);
+    border-color: var(--color-danger);
+}
+
+.meter-icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+.meter-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: var(--font-heading);
+    color: var(--color-text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.meter-label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+}
+
+.meter-percentage {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-success);
+}
+
+.waste-meter.waste-medium .meter-percentage {
+    color: var(--color-warning);
+}
+
+.waste-meter.waste-high .meter-percentage {
+    color: var(--color-danger);
+}
+
+.waste-details {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.waste-detail-item {
+    padding: 1rem;
+    background: rgba(33, 150, 243, 0.05);
+    border-radius: var(--radius-sm);
+    border-left: 3px solid var(--color-primary-blue);
+}
+
+.detail-label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.detail-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: var(--font-heading);
+    color: var(--color-text-primary);
+}
+
+.detail-value.waste-highlight {
+    color: var(--color-danger);
+}
+
+.waste-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    padding-top: 1.5rem;
+    border-top: 2px dashed var(--color-border);
+}
+
+.calculation-details {
+    margin-top: 2rem;
+    padding: 2rem;
+    background: rgba(245, 245, 245, 0.8);
+    border-radius: var(--radius-md);
+    border: 2px dashed var(--color-border);
+}
+
+.calculation-details h4 {
+    color: var(--color-primary-blue);
+    margin-bottom: 1rem;
+}
+
+.calculation-formula {
+    background: white;
+    padding: 1.5rem;
+    border-radius: var(--radius-sm);
+    margin-bottom: 1.5rem;
+    font-family: 'Courier New', monospace;
+}
+
+.formula-line {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    line-height: 1.8;
+}
+
+.formula-line strong {
+    color: var(--color-primary-green);
+}
+
+.threshold-table {
+    background: white;
+    padding: 1.5rem;
+    border-radius: var(--radius-sm);
+}
+
+.threshold-table h5 {
+    margin-bottom: 1rem;
+    color: var(--color-text-primary);
+}
+
+.threshold-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.threshold-table th {
+    background: var(--color-bg-primary);
+    padding: 0.75rem;
+    text-align: left;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    border-bottom: 2px solid var(--color-border);
+}
+
+.threshold-table td {
+    padding: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.threshold-table tr.active {
+    background: rgba(76, 175, 80, 0.1);
+    font-weight: 600;
+}
+
+.threshold-table tr.active td {
+    color: var(--color-text-primary);
+}
+
+@media (max-width: 768px) {
+    .waste-score-display {
+        grid-template-columns: 1fr;
+    }
+
+    .waste-actions {
+        flex-direction: column;
+    }
+
+    .waste-actions .btn {
+        width: 100%;
+    }
+
+    .meter-icon {
+        font-size: 3rem;
+    }
+
+    .meter-value {
+        font-size: 2rem;
+    }
+}

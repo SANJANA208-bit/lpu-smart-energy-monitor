@@ -1,0 +1,284 @@
+.insights-panel {
+    background: linear-gradient(135deg, #F5F5F5 0%, #FAFAFA 100%);
+    padding: 2rem 0;
+}
+
+.insights-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+    gap: 2rem;
+}
+
+.insights-stats {
+    display: flex;
+    gap: 1rem;
+}
+
+.stat-badge {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.75rem 1.25rem;
+    border-radius: var(--radius-md);
+    min-width: 80px;
+}
+
+.stat-number {
+    font-size: 1.75rem;
+    font-weight: 700;
+    font-family: var(--font-heading);
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0.25rem;
+}
+
+.insights-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.insight-card {
+    position: relative;
+    background: white;
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    box-shadow: var(--shadow-md);
+    border-left: 4px solid var(--severity-color);
+    transition: all var(--transition-normal);
+    overflow: hidden;
+}
+
+.insight-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    background: var(--severity-color);
+    opacity: 0.03;
+    border-radius: 50%;
+    transform: translate(30%, -30%);
+}
+
+.insight-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+}
+
+.insight-card.reviewed {
+    opacity: 0.7;
+    background: #FAFAFA;
+}
+
+.insight-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.insight-severity {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.severity-icon {
+    font-size: 1.5rem;
+}
+
+.severity-label {
+    font-weight: 700;
+    color: var(--severity-color);
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.reviewed-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.25rem 0.75rem;
+    background: rgba(76, 175, 80, 0.1);
+    color: #4CAF50;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.reviewed-badge svg {
+    color: #4CAF50;
+}
+
+.insight-building {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.125rem;
+}
+
+.insight-building svg {
+    color: var(--severity-color);
+}
+
+.insight-building strong {
+    color: var(--color-text-primary);
+}
+
+.category-badge {
+    font-size: 0.75rem;
+    margin-left: auto;
+}
+
+.insight-time,
+.insight-expected {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+}
+
+.insight-time svg,
+.insight-expected svg {
+    color: var(--color-primary-blue);
+}
+
+.insight-issue {
+    background: rgba(244, 67, 54, 0.05);
+    border-left: 3px solid var(--severity-color);
+    padding: 1rem;
+    border-radius: var(--radius-sm);
+    margin: 1rem 0;
+}
+
+.issue-label {
+    font-weight: 700;
+    color: var(--severity-color);
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.issue-text {
+    color: var(--color-text-primary);
+    line-height: 1.6;
+}
+
+.insight-suggestion {
+    background: rgba(33, 150, 243, 0.05);
+    border-left: 3px solid var(--color-primary-blue);
+    padding: 1rem;
+    border-radius: var(--radius-sm);
+    margin: 1rem 0;
+}
+
+.suggestion-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 700;
+    color: var(--color-primary-blue);
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.suggestion-label svg {
+    color: var(--color-primary-blue);
+}
+
+.suggestion-text {
+    color: var(--color-text-primary);
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.insight-actions {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+}
+
+.btn-sm {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+}
+
+.insight-percentage {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--severity-color);
+    opacity: 0.15;
+    font-family: var(--font-heading);
+}
+
+.no-insights {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: white;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+}
+
+.no-insights-icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+.no-insights h3 {
+    color: var(--color-primary-green);
+    margin-bottom: 0.5rem;
+}
+
+.no-insights p {
+    color: var(--color-text-secondary);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .insights-header {
+        flex-direction: column;
+    }
+
+    .insights-stats {
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .stat-badge {
+        min-width: 60px;
+        padding: 0.5rem 0.75rem;
+    }
+
+    .stat-number {
+        font-size: 1.5rem;
+    }
+
+    .insight-actions {
+        flex-direction: column;
+    }
+
+    .insight-actions .btn {
+        width: 100%;
+    }
+}

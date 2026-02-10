@@ -1,0 +1,144 @@
+.chart-container {
+    background: linear-gradient(135deg, #FAFAFA 0%, #FFFFFF 100%);
+    padding: 2rem 0;
+}
+
+.chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+    gap: 2rem;
+}
+
+.chart-toggles {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.chart-toggle-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    border: 2px solid var(--color-border);
+    background: white;
+    color: var(--color-text-secondary);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-primary);
+    font-weight: 500;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.chart-toggle-btn:hover {
+    border-color: var(--color-primary-green);
+    color: var(--color-primary-green);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+.chart-toggle-btn.active {
+    border-color: var(--color-primary-green);
+    background: var(--gradient-green);
+    color: white;
+    box-shadow: var(--shadow-glow-green);
+}
+
+.chart-icon {
+    font-size: 1.25rem;
+}
+
+.chart-wrapper {
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    background: white;
+}
+
+.custom-tooltip {
+    background: rgba(33, 33, 33, 0.95);
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+}
+
+.tooltip-label {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    font-size: 0.875rem;
+}
+
+.tooltip-value {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.tooltip-warning {
+    color: #FF9800;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+    font-weight: 500;
+}
+
+.chart-legend-info {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem;
+    background: rgba(33, 150, 243, 0.05);
+    border-radius: var(--radius-sm);
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.legend-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.legend-dot.abnormal {
+    animation: pulse 2s ease-in-out infinite;
+}
+
+@media (max-width: 1024px) {
+    .chart-header {
+        flex-direction: column;
+    }
+
+    .chart-toggles {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .chart-wrapper {
+        padding: 1rem;
+    }
+
+    .chart-toggles {
+        flex-direction: column;
+    }
+
+    .chart-toggle-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .chart-legend-info {
+        flex-direction: column;
+        align-items: center;
+        gap: 0.75rem;
+    }
+}
