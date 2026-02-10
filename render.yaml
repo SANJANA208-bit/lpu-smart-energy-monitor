@@ -3,8 +3,6 @@ services:
     name: lpu-backend
     env: node
     plan: free
-    repo: https://github.com/SANJANA208-bit/lpu-smart-energy-monitor
-    branch: main
     rootDir: backend
     buildCommand: npm install
     startCommand: npm start
